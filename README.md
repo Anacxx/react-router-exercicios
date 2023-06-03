@@ -35,7 +35,7 @@ Agora monte a mudança de rota no clique dos botões do cabeçalho:
 # Exercício 3
 Agora configure uma rota que utiliza path param:
 
-Crie uma nova página de produto específico por id **“/product/:id”**
+Crie uma nova página de produto específico por id **“**
 
 **Não se preocupe em aplicar navegação de rota nela**
 
